@@ -15,14 +15,12 @@
           "archiveFileName": "AENC_Mega-master.zip",
           "checksum": "SHA-256:933a4697ffb6dee3278a72d97e9c398874fce958de34fd8334fde492fd525107",
           "size": "148938",
-          "boards": [
-            {
-              "name": "AE&C Mega"
-            }
+          "boards": [ { "name": "AE&C Mega" }
           ]
         }
       ],
-      "tools": []
+       "toolsDependencies": [
+          ]
     }
   ]
 }
