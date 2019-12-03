@@ -1,2 +1,2 @@
-# AE-C-Mega
+# AE&C-Mega
 AE&amp;C Mega board for Arduino
