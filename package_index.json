@@ -1,23 +1,23 @@
 {
   "packages": [
     {
-      "name": "robohat",
-      "maintainer": "Robotics Masters",
-      "websiteURL": "https://roboticsmasters.co",
-      "email": "techsupport@roboticsmasters.co",
+      "name": "AE&C Mega",
+      "maintainer": "Mr. UL Dara",
+      "websiteURL": "https://aenccambodia.com",
+      "email": "uldara@aenccambodia.com",
       "platforms": [
         {
-          "name": "Robo HAT Boards",
-          "architecture": "samd",
-          "version": "0.0.12",
+          "name": "AE&C Mega",
+          "architecture": "avr",
+          "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/RoboHat-0.0.12.zip",
-          "archiveFileName": "RoboHat-0.0.12.zip",
+          "url": "https://github.com/uldara1/AENC_Mega/blob/master/AENC_Mega-master.zip",
+          "archiveFileName": "AENC_Mega-master.zip",
           "checksum": "SHA-256:933a4697ffb6dee3278a72d97e9c398874fce958de34fd8334fde492fd525107",
-          "size": "2381077",
+          "size": "148,938",
           "boards": [
             {
-              "name": "Robo HAT MM1"
+              "name": "AE&C Mega"
             }
           ],
           "toolsDependencies": [
