@@ -18,7 +18,11 @@
           "archiveFileName": "AENC_Mega.zip",
           "checksum": "SHA-256:044a9e7b4a8acbc064fc5978de725047931c3859588e09f708a89782dbc4e5cd",
           "size": "150306",
-          "boards": [{ "name": "AE&C Mega Board based on ATmega 2560 MCU" }],
+          "boards": [
+            {
+              "name": "AE&C Mega Board based on ATmega 2560 MCU and Designed by AE&C Cambodia"
+            }
+          ],
           "toolsDependencies": []
         }
       ],
