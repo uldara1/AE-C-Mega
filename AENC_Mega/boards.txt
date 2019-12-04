@@ -1,0 +1,27 @@
+
+## Define AEN&C Mega
+
+aenc.name=AEN&C Mega
+aenc.upload.protocol=wiring
+aenc.upload.maximum_size=258048
+aenc.upload.speed=115200
+aenc.upload.tool=avrdude
+
+
+
+aenc.bootloader.low_fuses=0xFF
+aenc.bootloader.high_fuses=0xD8
+aenc.bootloader.extended_fuses=0xFD
+aenc.bootloader.file=stk500v2/stk500boot_v2_mega2560.hex
+aenc.bootloader.unlock_bits=0x3F
+aenc.bootloader.lock_bits=0x0F
+aenc.build.mcu=atmega2560
+aenc.bootloader.tool=avrdude
+aenc.build.board=AVR_MEGA2560
+
+aenc.build.f_cpu=16000000L
+
+aenc.build.core=arduino
+aenc.build.variant=mega
+
+##############################################################
