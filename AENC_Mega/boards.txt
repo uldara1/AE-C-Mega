@@ -1,7 +1,7 @@
 
-## Define AEN&C Mega
+## Define AE&C Mega Board
 
-aenc.name=AEN&C Mega
+aenc.name=AE&C Mega
 aenc.upload.protocol=wiring
 aenc.upload.maximum_size=258048
 aenc.upload.speed=115200
