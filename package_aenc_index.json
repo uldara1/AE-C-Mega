@@ -5,7 +5,7 @@
     "websiteURL": "https://aenccambodia.com",
     "email": "uldara@aenccambodia.com",
     "platforms": [{
-      "name": "AE&C Mega1",
+      "name": "AE&C Mega",
       "architecture": "avr",
       "version": "0.0.1",
       "category": "Contributed",
