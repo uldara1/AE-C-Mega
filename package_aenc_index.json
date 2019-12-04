@@ -16,8 +16,8 @@
           "category": "Arduino@Heart",
           "url": "https://raw.githubusercontent.com/uldara1/AENC_Mega/master/AENC_Mega.zip",
           "archiveFileName": "AENC_Mega.zip",
-          "checksum": "SHA-256:4e142516ec224178f65d8bb88b2ae126028284fe53be3301f33a674fc4f9abb2",
-          "size": "149192",
+          "checksum": "SHA-256:e41cad68fc81176e96ce1a4465bd77f4f7a30e41ab1ee8af1cc7f5f24fb9009f",
+          "size": "150334",
           "boards": [{ "name": "AE&C Mega Board based on ATmega 2560 MCU" }],
           "toolsDependencies": []
         }
