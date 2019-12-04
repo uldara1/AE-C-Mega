@@ -1,26 +1,22 @@
 {
-  "packages": [
-    {
-      "name": "AE&C Mega",
-      "maintainer": "Mr. UL Dara",
-      "websiteURL": "https://aenccambodia.com",
-      "email": "uldara@aenccambodia.com",
-      "platforms": [
-        {
-          "name": "AE&C Mega",
-          "architecture": "avr",
-          "version": "0.0.1",
-          "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/uldara1/AENC_Mega/master/AENC_Mega-master.zip",
-          "archiveFileName": "AENC_Mega-master.zip",
-          "checksum": "SHA-256:933a4697ffb6dee3278a72d97e9c398874fce958de34fd8334fde492fd525107",
-          "size": "148938",
-          "boards": [ { "name": "AE&C Mega" }
-          ]
-        }
-      ],
-       "toolsDependencies": [
-          ]
-    }
-  ]
+  "packages": [{
+    "name": "AE&C Mega",
+    "maintainer": "Mr. UL Dara",
+    "websiteURL": "https://aenccambodia.com",
+    "email": "uldara@aenccambodia.com",
+    "platforms": [{
+      "name": "AE&C Mega1",
+      "architecture": "avr",
+      "version": "0.0.1",
+      "category": "Contributed",
+      "url": "https://raw.githubusercontent.com/uldara1/AENC_Mega/master/AENC_Mega-master.zip",
+      "archiveFileName": "AENC_Mega-master.zip",
+      "checksum": "SHA-256:933a4697ffb6dee3278a72d97e9c398874fce958de34fd8334fde492fd525107",
+      "size": "148938",
+      "boards": [{
+        "name": "AE&C Mega"
+      }]
+    }],
+    "toolsDependencies": []
+  }]
 }
